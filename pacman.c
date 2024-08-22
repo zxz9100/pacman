@@ -58,7 +58,7 @@ int main()
     fabric[111] = '$';
     do
     {
-        printf("%d\n", order);
+        //printf("%d\n", order);
         printf("팩맨 게임\n");
         printf("조작 : w, a, s, d\n");
         printf("점수 : %d\n", score);
